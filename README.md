@@ -1,1 +1,1 @@
-# predix-mobile-hello-world
+# Our first Project as a Team
